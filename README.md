@@ -1,4 +1,4 @@
-#BullCowGame by vvynerio
+#BullCowGame by VIYUKI
 
 <img width="1433" height="742" alt="Screenshot 2026-05-11 132331" src="https://github.com/user-attachments/assets/4ab1f778-d53b-4ca8-87ba-46f79260a918" />
 
